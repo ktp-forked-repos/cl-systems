@@ -1,1 +1,6 @@
 This repository contains improved stumpwm with dependencies.
+
+Add to cl init file:
+
+(unless (ql-dist:find-dist "cl-systems")
+  (ql-dist:install-dist "http://filonenko-mikhail.github.com/cl-systems/" :prompt nil))
