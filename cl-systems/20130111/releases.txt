@@ -1,0 +1,8 @@
+# project url size file-md5 content-sha1 prefix [system-file1..system-fileN]
+clx-cursor http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/clx-cursor-20130111.tgz 404029 fae83149a0ca780c23979d005b7da81f 72ab8d3083593d903382a31ef4ef58949a506ad8 clx-cursor-20130111 clx-cursor.asd
+clx-truetype http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/clx-truetype-20130111.tgz 867032 c041ed2edbb0017056afc60ae6dc46bd 0341cb3d265bc158c4f7d4a30e2f72905f0ec360 clx-truetype-20130111 clx-truetype.asd
+clx-xembed http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/clx-xembed-20130111.tgz 70353 7ddc48e6cb8db9165df21e20047f8056 096464e6d1b6cbbf93e4ef16cb68544590e35760 clx-xembed-20130111 xembed.asd
+clx-xkeyboard http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/clx-xkeyboard-20130111.tgz 125646 17cd23024680eb24565e8e3c54650780 f21ee28607ea8305790127e0e49dca2ba85f2847 clx-xkeyboard-20130111 xkeyboard.asd
+clx http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/clx-20130111.tgz 1272151 06d16723f4a7dfbc1560344008e95233 c6aaffebf466295abdff9965173dfe621e05ef50 clx-20130111 clx.asd
+quickdist http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/quickdist-20130111.tgz 68693 cd6e51e0c3eabe0e0e1d4d84717984ac 11af8653bd1c6f73d29b7f97a12511cbe00cf2bb quickdist-20130111 quickdist.asd
+stumpwm http://filonenko-mikhail.github.com/cl-systems/cl-systems/archive/stumpwm-20121227.tgz 1874635 dcbd50b22cac43746b22161d240d7eb3 df54d289f686a64cf744fc91ee355b11588a6ffd stumpwm-20121227 stumpwm.asd

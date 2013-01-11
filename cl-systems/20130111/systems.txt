@@ -1,0 +1,11 @@
+# project system-file system-name [dependency1..dependencyN]
+clx-cursor clx-cursor clx-cursor cl-fad clx
+clx-cursor clx-cursor clx-cursor-test cl-fad clx
+clx-truetype clx-truetype clx-truetype cl-aa cl-fad cl-paths-ttf cl-store cl-vectors clx trivial-features zpb-ttf
+clx-truetype clx-truetype clx-truetype-test clx-truetype
+clx-xembed xembed xembed clx
+clx-xkeyboard xkeyboard xkeyboard clx
+clx-xkeyboard xkeyboard xkeyboard-test xkeyboard
+clx clx clx sb-bsd-sockets
+quickdist quickdist quickdist alexandria babel-streams cl-fad com.informatimago.common-lisp.lisp-reader external-program ironclad quicklisp
+stumpwm stumpwm stumpwm cl-ppcre clx clx-truetype sb-posix
